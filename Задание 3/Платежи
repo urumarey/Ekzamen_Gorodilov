@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Платежи</title>
+</head>
+<body>
+  <h1>Платежи</h1>
+  <table>
+    <tr>
+      <th>ID платежа</th>
+      <th>ID клиента</th>
+      <th>Номер счета</th>
+      <th>Баланс</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1234567890</td>
+      <td>1000.00</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>2345678901</td>
+      <td>5000.00</td>
+    </tr>
+    <!-- Добавьте остальные записи -->
+  </table>
+  <a href="index.html">Вернуться на главную страницу</a>
+</body>
+</html>
